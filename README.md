@@ -58,5 +58,5 @@ https://dsc.gg/skochworld
 
 # CREDITS
 [⚠️] All of the rights go to [Blank-c](https://github.com/blank-c).
-
+[⚠️] Modified to be better and hidden. {Not allied with skoch or anybody this is for educational reasons}
 [⚠️] Scripts such as SkochOBF and some implements in the main code belongs to me. You're free to use it but not to remove the credits.
