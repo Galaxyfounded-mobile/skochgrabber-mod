@@ -8,7 +8,7 @@
 
 # STARS
 ```
-0 Stars = Better obfuscation, 9% Detection
+0 Stars = Better obfuscation, 3% Detection { Didn't test detection. }
 
 5 Stars = Better obfuscation.
 
