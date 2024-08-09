@@ -4,7 +4,7 @@
 
 [⚠️] This code uses Blank Grabber as the template. It's now been discontinued. Check out [here](https://github.com/blank-c/blank-grabber)
 
-[⚠️] THIS IS UNOFFICAL NOT MADE BY THE ACTUAL SKOCH TEAM
+[⚠️] THIS IS UNOFFICAL NOT MADE BY THE ACTUAL SKOCH TEAM - https://dsc.gg/skochworld
 
 # STARS
 ```
