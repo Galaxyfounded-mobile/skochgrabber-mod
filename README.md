@@ -1,6 +1,8 @@
 # SKOCH GRABBER - MODDED
 
-[✅] Skoch Grabber is a powerful spyware to steal every single data from your victims.
+[✅] Skoch Grabber - Modded is a powerful spyware to steal every single data from your victims.
+
+[✅] You may mod this project as to make it stronger etc but please leave credits to skoch and me.
 
 [⚠️] This code uses Blank Grabber as the template. It's now been discontinued. Check out [here](https://github.com/blank-c/blank-grabber)
 
@@ -75,4 +77,3 @@ Credits to Skoch for the fork.
 
 Credits to blank grabber for the idea.
 
-Credits to ****** for moddifiying the project { That is me btw }
