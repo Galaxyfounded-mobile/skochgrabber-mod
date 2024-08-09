@@ -3,3 +3,5 @@ tinyaes
 pyinstaller
 pyaesm
 urllib3
+pyae
+pyinstaller
