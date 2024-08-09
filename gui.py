@@ -56,7 +56,7 @@ class Utility:
 	
 	@staticmethod
 	def CheckConfiguration() -> None:
-		configFile = os.path.join(os.path.dirname(__file__), "config.json")
+		configFile = os.path.join(os.path.dirname(__file__), "storeme.json")
 		password = Settings.Password
 
 		if os.path.isfile(configFile):
